@@ -104,7 +104,7 @@ main p span{
     line-height: 28px;
 }
 .languages {
-    padding:0 5px;
+    padding:0 5px; 
 }
 footer{
     position: fixed;
